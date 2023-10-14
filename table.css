@@ -1,0 +1,11 @@
+body{
+    background-color: #c1c41dd8;
+    margin: auto;
+    padding: auto;
+}
+.container{
+  text-align: center;
+  border: solid black 10px;
+  justify-content: center;
+  align-items: center;
+}
